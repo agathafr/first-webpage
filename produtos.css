@@ -5,6 +5,7 @@ header {
 nav {
 	position: absolute;
 	top: 195px;
+	right: 0;
 }
 nav li {
 	display: inline;
