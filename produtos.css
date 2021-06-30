@@ -5,3 +5,7 @@ header {
 nav li {
 	display: inline;
 }
+
+nav a {
+	text-transform: uppercase;
+}
